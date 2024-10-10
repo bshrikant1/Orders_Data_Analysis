@@ -10,4 +10,5 @@ handling missing values, renaming columns, and creating calculated fields using 
 • Conducted SQL queries to identify the sales and analyzed region-specific sales trends based on total sales.
 
 
-![Uploading image.png…]()
+![Orders_Data_Analysis_WorkFlow](https://github.com/user-attachments/assets/0fd06bf8-e7b4-45bf-a1d3-d3fffe1fd76f)
+
