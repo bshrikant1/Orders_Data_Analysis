@@ -8,3 +8,6 @@ handling missing values, renaming columns, and creating calculated fields using 
 'replace' and 'append' operations.
 
 • Conducted SQL queries to identify the sales and analyzed region-specific sales trends based on total sales.
+
+
+![Uploading image.png…]()
